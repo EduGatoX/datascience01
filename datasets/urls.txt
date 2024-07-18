@@ -1,3 +1,0 @@
-household_income: https://www.kaggle.com/datasets/stealthtechnologies/regression-dataset-for-household-income-analysis
-spotify_songs_2024: https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024
-athlete_events: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
